@@ -1,0 +1,20 @@
+# ResearchMate Dependencies
+
+# LLM Providers
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# PDF reading
+PyPDF2>=3.0.0
+
+# Web search
+duckduckgo-search>=5.0.0
+
+# Math / calculator
+sympy>=1.12
+
+# Testing
+pytest>=7.0.0
