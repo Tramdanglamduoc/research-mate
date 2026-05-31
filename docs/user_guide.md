@@ -17,7 +17,7 @@ ResearchMate is an AI-powered research assistant that runs in your terminal. It 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/research-mate.git
+git clone https://github.com/Tramdanglamduoc/research-mate
 cd research-mate
 
 # 2. Create a virtual environment (recommended)
